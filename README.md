@@ -1,1 +1,1 @@
-# Data-science-project
+# Heart Disease Predictor with Multilingual Support\n\nStreamlit app to predict heart disease risk, give lifestyle tips, and support Hindi + Marathi language translation.
